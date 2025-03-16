@@ -1,4 +1,4 @@
-<h1>Notes App📝</h1>
+<h1>Notes App! 📓</h1>
 
 <p>The Notes App is a lightweight and user-friendly application that allows users to create, edit, and manage notes.
 It is designed for easy note-taking, organizing thoughts, and storing ideas in one place.
@@ -11,5 +11,7 @@ or even draft longer content.</p>
 <p>Delete Notes: Remove notes when no longer needed, keeping your list tidy.</p>
 <p>Responsive Design: The app is optimized for use on various devices, from desktop to mobile.</p>
 <p>Simple & Clean UI: Focus on your notes with a distraction-free and visually appealing user interface.</p>
+
+Live Demo: https://disha1527.github.io/Notes-App/
 
 ![screencapture-127-0-0-1-5500-index-html-2025-03-16-22_05_45](https://github.com/user-attachments/assets/a4caaae6-54a8-4699-b2be-ac2fae4a9875)
