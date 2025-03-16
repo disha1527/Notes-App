@@ -1,4 +1,4 @@
-<h1>Notes App! 📓</h1>
+<h1>Notes App📓</h1>
 
 <p>The Notes App is a lightweight and user-friendly application that allows users to create, edit, and manage notes.
 It is designed for easy note-taking, organizing thoughts, and storing ideas in one place.
